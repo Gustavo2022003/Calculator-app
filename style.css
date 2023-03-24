@@ -384,13 +384,14 @@ a {
         margin-top: 5vh;
     }
 
+
     p.header-title {
         letter-spacing: 15px;
         color: white;
         font-family: 'League Spartan', sans-serif;
         font-size: 16px;
         text-align: end;
-        margin-left: 43vw;
+        margin-left: 60vw;
     }
     
     .theme {
@@ -402,7 +403,7 @@ a {
         cursor: pointer;
         position: relative;
         top: 0;
-        left: 10vw;
+        left: 18vw;
         transition: 0.5s ease-in-out;
     }
     
@@ -426,7 +427,7 @@ a {
 
     .calculator-header {
         margin: auto;
-        width: 60vw;
+        width: 78vw;
     }
 
     .calculator-output {
@@ -465,7 +466,7 @@ a {
 
     .row > .col-2, .row > .col-5 {
         justify-content: space-around;
-        margin: 15px 0px;
+        margin: 10px 0px;
     }
 
     .btn-content {
