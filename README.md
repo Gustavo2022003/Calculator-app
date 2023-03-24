@@ -3,7 +3,7 @@
 ## Technologies used in this project
 [![My Skills](https://skillicons.dev/icons?i=jquery,bootstrap,javascript,html,css)](https://skillicons.dev)
 
-[Visit](https://gustavo2022003.github.io/Calculator-app/)
+<a href="https://gustavo2022003.github.io/Calculator-app/" target="blank"><img src="images/visit-page-click-here.svg" /></a>
 
 
 
